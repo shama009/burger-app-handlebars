@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 1380px 1000px;
+}
+h1, h2, .burgers-ordered, .burgers-eaten, .create-form {
+    margin-left: 550px;
+}
+li, .submit-button {
+    padding: 5px;
+    margin: 5px;
+}
+
