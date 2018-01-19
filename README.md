@@ -13,3 +13,5 @@
 3. Express-handlebars
 4. MVC design pattern
 5. MySql
+6. Heroku
+7. JAWS_DB MySql for remote database
