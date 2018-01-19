@@ -6,6 +6,7 @@
 3. The app allows user to order the same burger again using "order again" button
 
 4. The app will store every burger in a database, whether devoured or not.
+5. Here is the link to deployed app [Burgers-app](https://burgers-app-handlebars.herokuapp.com/)
 
 ### Frameworks/database/Technologies used:
 1. Nodejs
